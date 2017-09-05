@@ -16,7 +16,7 @@ Well for one, we would help provide a much more comfortable way to compute all t
 
 ### Group Members
 - Project Manager - Leandro Sarmiento	
-- Lead Programmer - Froy De Leon
-- Database Designer - Pete Byron Limpiada
+- Application Engineer - Froy De Leon
+- Database Engineer - Pete Byron Limpiada
 - Technical Documentation - Ramon Gonzalez 
-- Vincent Lopez
+- Application Engineer - Vincent Lopez
