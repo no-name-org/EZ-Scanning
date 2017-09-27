@@ -1,0 +1,1060 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"on",
+				"onMount"
+			],
+			[
+				"Cmp",
+				"CmpComponentClone"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"$font",
+				"$font-weight-bold"
+			],
+			[
+				"$admin",
+				"$admin-negative-fainter"
+			],
+			[
+				"$admin-ne",
+				"$admin-negative-fainter"
+			],
+			[
+				"$gray-",
+				"$gray-lighter"
+			],
+			[
+				"biller",
+				"biller-form"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"gray-",
+				"gray-light"
+			],
+			[
+				"handle",
+				"handlePressDelete"
+			],
+			[
+				"App",
+				"AppRegistry"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/config/routes.js",
+			"settings":
+			{
+				"buffer_size": 2637,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/screens/Dashboard.js",
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 344.0,
+		"last_filter": "sort",
+		"selected_items":
+		[
+			[
+				"sort",
+				"SortBy: Alphabetically"
+			],
+			[
+				"sortby",
+				"SortBy: Alphabetically"
+			],
+			[
+				"package disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"csscomb",
+				"Run CSScomb"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"side bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side bra",
+				"View: Toggle Side Bar"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"pacakge inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pacakge insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pacakage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd..",
+			"dir/a",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app/config",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app/screens"
+	],
+	"file_history":
+	[
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/node_modules/babel-preset-fbjs/configure.js",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/user-stories.md",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app/screens/Dashboard.js",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/package.json",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app/index.js",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/index.android.js",
+		"/C/Users/Froy/Desktop/School/Mobile Dev/ez-scanning/app/index.jsx",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/components/dashboard.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/billers-form.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/static/js/biller-form.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/component.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/component-clone.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/billers/form/fields.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/entry.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/webpack.config.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/service/billspayment/BillerFieldService.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/router-viewport.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/router-navigate.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/domain/form/billspayment/BillerForm.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/billers/form/biller.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/BillerController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/domain/dto/BillerField.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports/access-logs.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports/bills-payment.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/webapp/WEB-INF/views/manageCif.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports/buy-load.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports/fund-transfer.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports/buy-load-for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/partials/popupExportReport.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/static/js/popup-export-report.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/webapp/WEB-INF/views/reports/reportAccessLogs.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/webapp/WEB-INF/views/reports/reportBillsPayment.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/webapp/WEB-INF/views/reports/reportBuyLoad.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/webapp/WEB-INF/views/reports/reportFundTransfer.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/billers/form.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/config.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/LoginController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/service/ModelAndViewService.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/ReportController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/billers-manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/billers/manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/register.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/login.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/login.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_buttons.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/_variables.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_main-logo.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/main.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/globals/_layout.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_header-text.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_dashboard-header.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_centered-section.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/password-reset.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/password-forgot.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/components/landing.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/password-forgot.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/password-reset.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/register.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/scss/_buttons.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_brand-input.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/brand-input.js",
+		"/C/Users/Froy/Desktop/Work/cbmb-bo/src/main/java/com/unionbankph/config/ViewResolverConfig.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_dashboard-body.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_dashboard-item.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/router-backtrack.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/static/js/form-validation.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/scss/_variables.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/scss/mixins/_buttons.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/scss/_functions.scss",
+		"/C/Users/Froy/Desktop/test.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/scss/bootstrap-reboot.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/node_modules/bootstrap/package.json",
+		"/C/Users/Froy/Desktop/cbmb-bo/package.json",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/js/components/biller-form.js",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/billers-menu.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/NavController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/billers.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/ForgotPasswordController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/forgot-password.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/forgot-password.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/user-edit-profile.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/user-edit-profile.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/UserProfileController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/UserController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/edit-profile.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/users-manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/users/manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/users-menu.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/users/for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/users-for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/users.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-menu.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-fund-transfer.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/PushNotificationController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/dashboard.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/push-notifications-upload.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/notifications-upload.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/reports.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_dashboard-options.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-access-logs.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/ReportBuyLoadController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-bills-payment.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-buy-load.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports-buy-load-for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/reports/buy-load.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/accounts-manage-cif.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/accounts-menu.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/accounts-send-oac.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/faqs-for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/faqs-menu.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/accounts-client-user-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/accounts-client-user-manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/faqs-manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_content-area.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_header-link.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/faqs/for-approval.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/FaqController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_layout-container.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/faqs/manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/header-text.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/accounts.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/faqs.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/java/com/unionbankph/controller/ClientUserController.java",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/accounts/client-user-manage.html",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_dashboard-sidebar.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/scss/components/_tables.scss",
+		"/C/Users/Froy/Desktop/cbmb-bo/src/main/resources/html/views/dashboard/accounts/client-user-approval.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Dashboard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/config/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/screens/Dashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ez-scanning.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"node_modules\\babel-preset-fbjs\\configure.js"
+			],
+			[
+				"dash",
+				"app\\screens\\Dashboard.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"fields",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\fields.html"
+			],
+			[
+				"form/biller",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\biller.html"
+			],
+			[
+				"components/dashb",
+				"src\\main\\resources\\html\\components\\dashboard.html"
+			],
+			[
+				"billers-form",
+				"src\\main\\resources\\html\\billers-form.html"
+			],
+			[
+				"biller-form",
+				"src\\main\\resources\\static\\js\\biller-form.js"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"component",
+				"src\\main\\resources\\js\\component.js"
+			],
+			[
+				"entry.js",
+				"src\\main\\resources\\entry.js"
+			],
+			[
+				"component.js",
+				"src\\main\\resources\\js\\component.js"
+			],
+			[
+				"router-",
+				"src\\main\\resources\\js\\components\\router-viewport.js"
+			],
+			[
+				"billercontroler",
+				"src\\main\\java\\com\\unionbankph\\controller\\BillerController.java"
+			],
+			[
+				"billerform",
+				"src\\main\\java\\com\\unionbankph\\domain\\form\\billspayment\\BillerForm.java"
+			],
+			[
+				"field",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\fields.html"
+			],
+			[
+				"billerfield",
+				"src\\main\\java\\com\\unionbankph\\domain\\dto\\BillerField.java"
+			],
+			[
+				"billercontrol",
+				"src\\main\\java\\com\\unionbankph\\controller\\BillerController.java"
+			],
+			[
+				"entry",
+				"src\\main\\resources\\entry.js"
+			],
+			[
+				"popupexport",
+				"src\\main\\resources\\html\\partials\\popupExportReport.html"
+			],
+			[
+				"popup-export-report",
+				"src\\main\\resources\\static\\js\\popup-export-report.js"
+			],
+			[
+				"access-logs",
+				"src\\main\\resources\\html\\views\\dashboard\\reports\\access-logs.html"
+			],
+			[
+				"billers/form",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form.html"
+			],
+			[
+				"router-viewport",
+				"src\\main\\resources\\js\\components\\router-viewport.js"
+			],
+			[
+				"router-navigate",
+				"src\\main\\resources\\js\\components\\router-navigate.js"
+			],
+			[
+				"billercontroller",
+				"src\\main\\java\\com\\unionbankph\\controller\\BillerController.java"
+			],
+			[
+				"reportcontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\ReportController.java"
+			],
+			[
+				"loginc",
+				"src\\main\\java\\com\\unionbankph\\controller\\LoginController.java"
+			],
+			[
+				"viewser",
+				"src\\main\\java\\com\\unionbankph\\service\\ModelAndViewService.java"
+			],
+			[
+				"bcontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\BillerController.java"
+			],
+			[
+				"billers/manage",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\manage.html"
+			],
+			[
+				"biller-m",
+				"src\\main\\resources\\html\\billers-manage.html"
+			],
+			[
+				"form/field",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\fields.html"
+			],
+			[
+				"/form/biller",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\biller.html"
+			],
+			[
+				"register",
+				"src\\main\\resources\\html\\views\\register.html"
+			],
+			[
+				"views/login",
+				"src\\main\\resources\\html\\views\\login.html"
+			],
+			[
+				"login",
+				"src\\main\\resources\\html\\login.html"
+			],
+			[
+				"router-na",
+				"src\\main\\resources\\js\\components\\router-navigate.js"
+			],
+			[
+				"form/fileds",
+				"src\\main\\resources\\html\\views\\dashboard\\billers\\form\\fields.html"
+			],
+			[
+				"variables",
+				"src\\main\\resources\\scss\\_variables.scss"
+			],
+			[
+				"buttons",
+				"src\\main\\resources\\scss\\components\\_buttons.scss"
+			],
+			[
+				"config.js",
+				"src\\main\\resources\\config.js"
+			],
+			[
+				"main.scss",
+				"src\\main\\resources\\scss\\main.scss"
+			],
+			[
+				"dashboard-header",
+				"src\\main\\resources\\scss\\components\\_dashboard-header.scss"
+			],
+			[
+				"variabls",
+				"src\\main\\resources\\scss\\_variables.scss"
+			],
+			[
+				"centered-section",
+				"src\\main\\resources\\scss\\components\\_centered-section.scss"
+			],
+			[
+				"landing",
+				"src\\main\\resources\\html\\components\\landing.html"
+			],
+			[
+				"password-reset",
+				"src\\main\\resources\\html\\views\\password-reset.html"
+			],
+			[
+				"password-forgot",
+				"src\\main\\resources\\html\\views\\password-forgot.html"
+			],
+			[
+				"password-for",
+				"src\\main\\resources\\html\\password-forgot.html"
+			],
+			[
+				"password",
+				"src\\main\\resources\\html\\views\\password-forgot.html"
+			],
+			[
+				"regsiter",
+				"src\\main\\resources\\html\\views\\register.html"
+			],
+			[
+				"pasw",
+				"src\\main\\resources\\html\\password-reset.html"
+			],
+			[
+				"dashboard",
+				"src\\main\\resources\\html\\views\\dashboard.html"
+			],
+			[
+				"passw",
+				"src\\main\\resources\\html\\password-reset.html"
+			],
+			[
+				"forgo",
+				"src\\main\\resources\\html\\password-forgot.html"
+			],
+			[
+				"layout",
+				"src\\main\\resources\\scss\\globals\\_layout.scss"
+			],
+			[
+				"lc",
+				"src\\main\\java\\com\\unionbankph\\controller\\LoginController.java"
+			],
+			[
+				"dashboard-boyd",
+				"src\\main\\resources\\scss\\components\\_dashboard-body.scss"
+			],
+			[
+				"login.html",
+				"src\\main\\resources\\html\\login.html"
+			],
+			[
+				"dashboard-item",
+				"src\\main\\resources\\scss\\components\\_dashboard-item.scss"
+			],
+			[
+				"router",
+				"src\\main\\resources\\js\\components\\router-viewport.js"
+			],
+			[
+				"form-",
+				"src\\main\\resources\\static\\js\\form-validation.js"
+			],
+			[
+				"main.css",
+				"src\\main\\resources\\scss\\main.scss"
+			],
+			[
+				"pacakge.json",
+				"package.json"
+			],
+			[
+				"",
+				"src\\main\\resources\\scss\\components\\_buttons.scss"
+			],
+			[
+				"billercontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\BillerController.java"
+			],
+			[
+				"nav",
+				"src\\main\\java\\com\\unionbankph\\controller\\NavController.java"
+			],
+			[
+				"logincontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\LoginController.java"
+			],
+			[
+				"user-ed",
+				"src\\main\\resources\\html\\user-edit-profile.html"
+			],
+			[
+				"bousercontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\UserController.java"
+			],
+			[
+				"dahsboar",
+				"src\\main\\resources\\html\\components\\dashboard.html"
+			],
+			[
+				"pushnotifi",
+				"src\\main\\java\\com\\unionbankph\\controller\\PushNotificationController.java"
+			],
+			[
+				"pushnotificationcontr",
+				"src\\main\\java\\com\\unionbankph\\controller\\PushNotificationController.java"
+			],
+			[
+				"components/da",
+				"src\\main\\resources\\html\\components\\dashboard.html"
+			],
+			[
+				"aria",
+				"src\\main\\resources\\scss\\_variables.scss"
+			],
+			[
+				"reports",
+				"src\\main\\resources\\html\\views\\dashboard\\reports.html"
+			],
+			[
+				"dashboard-options",
+				"src\\main\\resources\\scss\\components\\_dashboard-options.scss"
+			],
+			[
+				"buyloadcon",
+				"src\\main\\java\\com\\unionbankph\\controller\\ReportBuyLoadController.java"
+			],
+			[
+				"reportcon",
+				"src\\main\\java\\com\\unionbankph\\controller\\ReportController.java"
+			],
+			[
+				"faqs-mana",
+				"src\\main\\resources\\html\\faqs-manage.html"
+			],
+			[
+				"content",
+				"src\\main\\resources\\scss\\components\\_content-area.scss"
+			],
+			[
+				"header-text",
+				"src\\main\\resources\\scss\\components\\_header-text.scss"
+			],
+			[
+				"header-",
+				"src\\main\\resources\\scss\\components\\_header-link.scss"
+			],
+			[
+				"faqc",
+				"src\\main\\java\\com\\unionbankph\\controller\\FaqController.java"
+			],
+			[
+				"faqcon",
+				"src\\main\\java\\com\\unionbankph\\controller\\FaqController.java"
+			],
+			[
+				"content-area",
+				"src\\main\\resources\\scss\\components\\_content-area.scss"
+			],
+			[
+				"header",
+				"src\\main\\resources\\scss\\components\\_header-text.scss"
+			],
+			[
+				"header-link",
+				"src\\main\\resources\\scss\\components\\_header-link.scss"
+			],
+			[
+				"main.scs",
+				"src\\main\\resources\\scss\\main.scss"
+			],
+			[
+				"contnet",
+				"src\\main\\resources\\scss\\components\\_content-area.scss"
+			],
+			[
+				"layout-",
+				"src\\main\\resources\\scss\\components\\_layout-container.scss"
+			],
+			[
+				"faqs-man",
+				"src\\main\\resources\\html\\faqs-manage.html"
+			],
+			[
+				"faqs/manage",
+				"src\\main\\resources\\html\\views\\dashboard\\faqs\\manage.html"
+			],
+			[
+				"components/das",
+				"src\\main\\resources\\html\\components\\dashboard.html"
+			],
+			[
+				"content-",
+				"src\\main\\resources\\scss\\components\\_content-area.scss"
+			],
+			[
+				"accounts",
+				"src\\main\\resources\\html\\views\\dashboard\\accounts.html"
+			],
+			[
+				"navcon",
+				"src\\main\\java\\com\\unionbankph\\controller\\NavController.java"
+			],
+			[
+				"clientuserc",
+				"src\\main\\java\\com\\unionbankph\\controller\\ClientUserController.java"
+			],
+			[
+				"dashboard-side",
+				"src\\main\\resources\\scss\\components\\_dashboard-sidebar.scss"
+			],
+			[
+				"layout-c",
+				"src\\main\\resources\\scss\\components\\_layout-container.scss"
+			],
+			[
+				"tables",
+				"src\\main\\resources\\scss\\components\\_tables.scss"
+			],
+			[
+				"clientusercontroller",
+				"src\\main\\java\\com\\unionbankph\\controller\\ClientUserController.java"
+			],
+			[
+				"dashboard.js",
+				"src\\main\\resources\\static\\js\\dashboard.js"
+			],
+			[
+				"manage-cif",
+				"src\\main\\resources\\html\\views\\dashboard\\accounts\\manage-cif.html"
+			],
+			[
+				"cif",
+				"src\\main\\java\\com\\unionbankph\\controller\\CifController.java"
+			],
+			[
+				"oac",
+				"src\\main\\java\\com\\unionbankph\\controller\\OacController.java"
+			],
+			[
+				"send-",
+				"src\\main\\resources\\html\\views\\dashboard\\accounts\\send-oac.html"
+			],
+			[
+				"controller",
+				"src\\main\\java\\com\\unionbankph\\controller\\OacController.java"
+			],
+			[
+				"dashb",
+				"src\\main\\resources\\scss\\components\\_dashboard-option.scss"
+			],
+			[
+				"main",
+				"src\\main\\resources\\scss\\main.scss"
+			],
+			[
+				"application",
+				"src\\main\\resources\\application.properties"
+			],
+			[
+				"main-view",
+				"src\\main\\resources\\scss\\components\\_main-view.scss"
+			],
+			[
+				"grid-link",
+				"src\\main\\resources\\scss\\components\\_grid-link.scss"
+			],
+			[
+				"navco",
+				"src\\main\\java\\com\\unionbankph\\controller\\NavController.java"
+			],
+			[
+				"dashboard-content",
+				"src\\main\\resources\\scss\\_dashboard-content.scss"
+			],
+			[
+				"sidebar-item",
+				"src\\main\\resources\\scss\\components\\_sidebar-item.scss"
+			],
+			[
+				"dah",
+				"src\\main\\resources\\html\\dashboard.html"
+			],
+			[
+				"sidebar-head",
+				"src\\main\\resources\\scss\\components\\_sidebar-header.scss"
+			],
+			[
+				"sidebar-header",
+				"src\\main\\resources\\scss\\components\\_sidebar-header.scss"
+			],
+			[
+				"sidebar",
+				"src\\main\\resources\\scss\\components\\_sidebar-item.scss"
+			],
+			[
+				"dashboard-topb",
+				"src\\main\\resources\\scss\\components\\_dashboard-topbar.scss"
+			],
+			[
+				"dashbo",
+				"src\\main\\resources\\html\\dashboard.html"
+			],
+			[
+				"vra",
+				"src\\main\\resources\\scss\\_variables.scss"
+			],
+			[
+				"vari",
+				"src\\main\\resources\\scss\\_variables.scss"
+			],
+			[
+				"main.",
+				"src\\main\\resources\\scss\\main.scss"
+			],
+			[
+				"dashboard-topbar",
+				"src\\main\\resources\\scss\\components\\_dashboard-topbar.scss"
+			],
+			[
+				"topnav",
+				"src\\main\\resources\\html\\partials\\topNav.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 400.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
