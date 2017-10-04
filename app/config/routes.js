@@ -4,6 +4,7 @@ import { Icon } from 'react-native-elements';
 import { Router, Stack, Scene, Tabs, TabBarBottom } from 'react-native-router-flux';
 
 import Dashboard from '../screens/Dashboard';
+import { Scanner } from '../screens/Scanner';
 
 const TabIcon = ({ iconName }) => {
   return (
@@ -41,7 +42,7 @@ export const HomeStack = () => (
   <Router>
     <Stack key="root">
       <Scene key="home" tabs={true} tabBarPosition={ 'bottom' } hideNavBar={ true }>
-        <Scene key="dashboard" title="Dashboard" icon={TabIcon} iconName="md-home" inital={true} >
+        <Scene key="dashboard" title="Dashboard" icon={ TabIcon } iconName="md-home" inital={true} >
           <Scene key="dashboard1" title="Dashboard" component={ Dashboard }
             navigationBarStyle={styles.topNavBar}
             titleStyle={{ color: '#fff' }}
@@ -70,6 +71,7 @@ export const HomeStack = () => (
             renderRightButton={ renderRightButton } />
         </Scene>
       </Scene>
+      <Scene key="scanner" component={ Scanner } title="Scanner" hideNavBar={ true } />
     </Stack>
   </Router>
 );
