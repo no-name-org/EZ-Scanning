@@ -23,7 +23,6 @@ let renderLeftButton = (props) => {
       name='menu'
       type='entypo'
       color='#fff'
-      onPress={ console.log('Left Button Pressed') } 
     />
   );
 }
@@ -34,7 +33,7 @@ let renderRightButton = (props) => {
       name='shopping-cart'
       type='ionicons'
       color='#fff'
-      onPress={ console.log('Right Button Pressed') }/>
+    />
   );
 }
 
@@ -43,28 +42,28 @@ export const HomeStack = () => (
     <Stack key="root">
       <Scene key="home" tabs={true} tabBarPosition={ 'bottom' } hideNavBar={ true }>
         <Scene key="dashboard" title="Dashboard" icon={TabIcon} iconName="md-home" inital={true} >
-          <Scene key="dashboard1" title="Dashboard" component={ Dashboard } 
+          <Scene key="dashboard1" title="Dashboard" component={ Dashboard }
             navigationBarStyle={styles.topNavBar}
             titleStyle={{ color: '#fff' }}
             renderLeftButton={ renderLeftButton }
             renderRightButton={ renderRightButton } />
         </Scene>
         <Scene key="explore" title="Explore" icon={TabIcon} iconName="md-list-box">
-          <Scene key="explore1" title="Explore" component={ Dashboard } 
+          <Scene key="explore1" title="Explore" component={ Dashboard }
             navigationBarStyle={styles.topNavBar}
             titleStyle={{ color: '#fff' }}
             renderLeftButton={ renderLeftButton }
             renderRightButton={ renderRightButton } />
         </Scene>
         <Scene key="favorites" title="Favorites" icon={TabIcon} iconName="md-star">
-          <Scene key="favorites1" title="Favorites" component={ Dashboard } 
+          <Scene key="favorites1" title="Favorites" component={ Dashboard }
             navigationBarStyle={styles.topNavBar}
             titleStyle={{ color: '#fff' }}
             renderLeftButton={ renderLeftButton }
             renderRightButton={ renderRightButton } />
         </Scene>
         <Scene key="settings" title="Settings" icon={TabIcon} iconName="md-settings">
-          <Scene key="settings1" title="Settings" component={ Dashboard } 
+          <Scene key="settings1" title="Settings" component={ Dashboard }
             navigationBarStyle={styles.topNavBar}
             titleStyle={{ color: '#fff' }}
             renderLeftButton={ renderLeftButton }
