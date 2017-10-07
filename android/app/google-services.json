@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832183454608",
+    "firebase_url": "https://ez-scanning.firebaseio.com",
+    "project_id": "ez-scanning",
+    "storage_bucket": "ez-scanning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832183454608:android:ba3e1f2f2395416b",
+        "android_client_info": {
+          "package_name": "com.ezscanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832183454608-hmuo3v367npfa2kq7bg9fjhntnb7d4vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZHzmxujlPsJ5yQM58F791fh6wWKSJ-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
