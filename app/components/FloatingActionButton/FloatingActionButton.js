@@ -1,11 +1,12 @@
 import React from 'react';
 import ActionButton from 'react-native-action-button';
 import Icon from 'react-native-vector-icons/Ionicons';
+import { Actions } from 'react-native-router-flux';
 
 import { styles, btnColors } from './styles';
 
 function showScanner() {
-	console.log('test');
+	Actions.scanner();
 }
 
 export const FloatingActionButton = props => {
