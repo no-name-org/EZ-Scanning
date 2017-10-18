@@ -5,14 +5,35 @@ import { View, FlatList } from 'react-native';
 import { Actions } from 'react-native-router-flux';
 
 import ProductItem from '../components/ProductItem';
+import { getData } from '../lib/axios';
+import axios from 'axios';
 
 export default class Checkout extends React.Component {
   constructor(props, ctx) {
     super(props, ctx);
 
     this.state = {
-      data: []
+      data: [],
     }
+  }
+
+  setCheckoutData = (data) => {    
+    let promises = data.map(item => {
+      return getData(`/products/${item.product_id}`);
+    })
+    axios.all(promises)
+      .then((data) => {
+        let merged = data.reduce((a, b) => [...a, ...b], []);
+        console.log(merged);
+        this.setState({
+          data: merged,
+        });
+      })
+  }
+
+  getCheckoutData = () => {
+    console.log('inside checkout');
+    getData('/checkout/user/froy22', this.setCheckoutData);
   }
 
   removeItem = (id) => {
@@ -25,11 +46,14 @@ export default class Checkout extends React.Component {
 
   renderProductItem = ({ item }) => (
     <ProductItem
-      id={ item.id }
-      title={ item.title }
+      name={ item.name }
       price={ item.price }
       removeItem={ this.removeItem } />
   );
+
+  componentDidMount() {
+    this.getCheckoutData();
+  }
 
   render() {
     return (

@@ -1,12 +1,19 @@
 import React from 'react';
-import { ToastAndroid, View, Linking, StyleSheet, Dimensions } from 'react-native';
 import QRCodeScanner from 'react-native-qrcode-scanner';
 
-function onSuccess(e) {
+import { ToastAndroid, View, Linking, StyleSheet, Dimensions } from 'react-native';
+import { Actions } from 'react-native-router-flux'
+
+import { postData } from '../lib/axios';
+
+const onSuccess = (e) => {
   ToastAndroid.show(e.data, ToastAndroid.SHORT);
-  // Linking
-    // .openURL(e.data)
-    // .catch(err => console.error('An error occured', err));
+
+  postData('/checkout', {
+    product_id: e.data,
+    created_by: 'froy22',
+  });
+  Actions.pop();
 }
 
 export const Scanner = props => {

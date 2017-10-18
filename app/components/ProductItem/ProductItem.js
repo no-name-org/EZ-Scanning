@@ -8,8 +8,10 @@ import { placeholder } from '../../static/images/placeholder';
 
 import { BrandText, HeaderText, BoldHeaderText } from '../BrandText';
 import { DeleteButton, FavoriteButton } from '../Buttons';
+import { getData } from '../../lib/axios';
 
-export const ProductItem = ({ id, title, price, removeItem }) => {
+export const ProductItem = ({ id, name, price, image, removeItem }) => {
+
 	return (
 		<View style={ styles.container }>
 			<Image
@@ -19,7 +21,7 @@ export const ProductItem = ({ id, title, price, removeItem }) => {
 			<View style={ styles.details }>
 				<View style={ styles.text }>
 					<HeaderText>
-            { title }
+            { name }
           </HeaderText>
 					<BoldHeaderText>
             { `P ${price}` }
