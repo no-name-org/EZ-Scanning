@@ -3,7 +3,7 @@
 	[
 		{
 			"path": ".",
-			"folder_exclude_patterns": ["node_modules", "android", "ios", "__tests__"]
+			"folder_exclude_patterns": ["node_modules", "ios", "__tests__"]
 		}
 	]
 }

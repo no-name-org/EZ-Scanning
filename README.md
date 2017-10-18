@@ -11,7 +11,11 @@ Grocery app with QR code and barcode scanning.
 2. Run `npm install` to install dependencies.
 3. Run `cd android && gradlew clean`. (on first run or after linking dependencies to Android)
 4. Make sure an Android phone is connected or a simulator is running.
-5. Run `react-native run-android` to run the app.
+5. Run `react-native run-android` at the root of the project to run the app.
+
+## Notes
+- Check if `npm` is outdated by running `npm outdated -g`. If outated, update it by running `npm update -g npm`. This solves the dependency issue with firebase.
+- Cleaning the android folder by runnning `cd android %% gradlew clean` can sometimes fix errors when running `react-native run-android.`
 
 ## Folder Structure
 ```

@@ -11,4 +11,4 @@ export const styles = StyleSheet.create({
     height: 22,
     color: 'white',
   },
-});
+})
