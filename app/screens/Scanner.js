@@ -1,12 +1,12 @@
 import React from 'react';
-import { View, Linking, StyleSheet, Dimensions } from 'react-native';
+import { ToastAndroid, View, Linking, StyleSheet, Dimensions } from 'react-native';
 import QRCodeScanner from 'react-native-qrcode-scanner';
 
 function onSuccess(e) {
-  console.log(e);
-  Linking
-    .openURL(e.data)
-    .catch(err => console.error('An error occured', err));
+  ToastAndroid.show(e.data, ToastAndroid.SHORT);
+  // Linking
+    // .openURL(e.data)
+    // .catch(err => console.error('An error occured', err));
 }
 
 export const Scanner = props => {
